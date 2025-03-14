@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔥 Screen Recorder App with Mic & Noise Reduction 🔥
 
 A simple and powerful screen recorder built with Python & PyQt5.  
@@ -21,3 +22,6 @@ Supports custom region selection, microphone recording, noise reduction, and mor
 ### Install Dependencies
 ```bash
 pip install -r requirements.txt
+=======
+# Screen-Recorder-App
+>>>>>>> 8058e633af4fd0d357c87ec60eefc582d973df8d
